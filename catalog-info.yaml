@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "repo-02-component"
+spec:
+  type: service
+  owner: Iker Moratino Rodríguez
+  lifecycle: experimental
